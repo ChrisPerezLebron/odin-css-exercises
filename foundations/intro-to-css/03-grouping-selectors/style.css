@@ -1,0 +1,13 @@
+.primary,
+.secondary {
+    font-size: 18px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+#one {
+    color: white;
+    background-color: black;
+}
+#two {
+    color: black;
+    background-color: yellow;
+}
